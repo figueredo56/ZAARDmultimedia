@@ -11,32 +11,26 @@
 
 ---
 
-## 🎶 ZAARD Audio Arena (Reproductor Oficial)
-Disfruta de las bandas sonoras y temas oficiales del ecosistema. Haz clic en **Play** para reproducir directamente:
+## 🎶 ZAARD Audio Arena (Temas Oficiales)
+Haz clic en cualquier botón para reproducir o escuchar la pista oficial del ecosistema:
 
-### 1. Bailando en el Bloque
-<audio controls style="width: 100%;">
-  <source src="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Bailando_en_el_Bloque.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de audio.
-</audio>
+<p align="center">
+  <a href="https://github.com/figueredo56/ZAARDmultimedia/raw/main/Bailando_en_el_Bloque.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Reproducir-Bailando_en_el_Bloque-9333ea?style=for-the-badge&logo=soundcharts&logoColor=white" width="48%">
+  </a>
+  <a href="https://github.com/figueredo56/ZAARDmultimedia/raw/main/El_Manifiesto_Zaard.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Reproducir-El_Manifiesto_Zaard-7c3aed?style=for-the-badge&logo=soundcharts&logoColor=white" width="48%">
+  </a>
+</p>
 
-### 2. El Manifiesto Zaard
-<audio controls style="width: 100%;">
-  <source src="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/El_Manifiesto_Zaard.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de audio.
-</audio>
-
-### 3. Poder Panga
-<audio controls style="width: 100%;">
-  <source src="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Poder_Panga.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de audio.
-</audio>
-
-### 4. Trono del Xenocrypt
-<audio controls style="width: 100%;">
-  <source src="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Trono_del_Xenocrypt.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de audio.
-</audio>
+<p align="center">
+  <a href="https://github.com/figueredo56/ZAARDmultimedia/raw/main/Poder_Panga.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Reproducir-Poder_Panga-6d28d9?style=for-the-badge&logo=soundcharts&logoColor=white" width="48%">
+  </a>
+  <a href="https://github.com/figueredo56/ZAARDmultimedia/raw/main/Trono_del_Xenocrypt.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Reproducir-Trono_del_Xenocrypt-581c87?style=for-the-badge&logo=soundcharts&logoColor=white" width="48%">
+  </a>
+</p>
 
 ---
 
