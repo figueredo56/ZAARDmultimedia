@@ -49,6 +49,7 @@ Haz clic en cualquier botón para reproducir o escuchar la pista oficial del eco
 ## 🖼️ Galería de Arte & Activos Visuales ZAARD & PANGA
 Una muestra exclusiva del diseño visual, branding y colecciones de arte digital creadas por **XENOCRYPT**.
 
+<!-- Fila 1 -->
 <p align="center">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790285457237-9ad671ea756d64c75327e237813ee288.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790265552390-0f039d18ee1d653bf30587b1e0baca3a.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
@@ -57,6 +58,7 @@ Una muestra exclusiva del diseño visual, branding y colecciones de arte digital
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790286307495-7850b9884619f2e0ccb7358994c11b42.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
 </p>
 
+<!-- Fila 2 -->
 <p align="center">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790286366724-9003585f30626b9963bd86a5cf26c8ca.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790286389131-9ffaade2f1b5bc4c51858adc8fdf4bd4.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
@@ -65,12 +67,22 @@ Una muestra exclusiva del diseño visual, branding y colecciones de arte digital
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790287451706-4593a246bbbf27b508770c328ab883c0.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
 </p>
 
+<!-- Fila 3 -->
 <p align="center">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790288769685-7d9a89bc13043a812c4889cb55ac4a54.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790290122445-0077664fb41e21b3aec6f1685fd6ec56.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790290143709-10b712b064b3dca0c1a6417000db08e3.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790292969136-01bee0f6ff1ce50a2cc21e0d00d5c426.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790375348672-4de629a77b910ca4b3f245dda1b233f0.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
+</p>
+
+<!-- Fila 4 (Nuevas Imágenes Añadidas) -->
+<p align="center">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791510810595-3fdef73db832260611c259f019b0bf38.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791510841007-f66572cbcf9d5fc7193cef1ae5959141.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791510894103-56c377de956c1c3a7b33918e7ed78ba7.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791510920993-e3366dcac4d9846d38bbb175e71b1538.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791510947001-a4d6873c2eb5099c9cbcde2494426878.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
 </p>
 
 ---
