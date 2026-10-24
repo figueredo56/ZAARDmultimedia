@@ -46,6 +46,46 @@ Haz clic en cualquier botón para reproducir o escuchar la pista oficial del eco
 
 ---
 
+<div align="center">
+
+# 🚀 ZAARD INNOVATION - Ecosistema Web3 & DeFi
+
+Explora los swaps directos y oficiales de nuestros tokens principales en el ecosistema descentralizado:
+
+</div>
+
+---
+
+### 🥞 Swap Directo: ZARD
+<div align="center">
+  <a href="https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38" target="_blank">
+    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792866515997-1739acdd69caccce104fa49c60fabcfe.png" width="100%" alt="ZARD Swap Directo">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38" target="_blank">
+    <b>⚡ Intercambiar BNB a ZARD en PancakeSwap ↗</b>
+  </a>
+</div>
+
+---
+
+### 🥞 Swap Directo: PANGA
+<div align="center">
+  <a href="https://pancakeswap.finance/swap?outputCurrency=0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2" target="_blank">
+    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792866833974-3b8443138ca015570c7178718de20f12.png" width="100%" alt="PANGA Swap Directo">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://pancakeswap.finance/swap?outputCurrency=0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2" target="_blank">
+    <b>⚡ Intercambiar BNB a PANGA en PancakeSwap ↗</b>
+  </a>
+</div>
+
+---
+
 ## 🖼️ Galería de Arte & Activos Visuales ZAARD & PANGA
 Una muestra exclusiva del diseño visual, branding y colecciones de arte digital creadas por **XENOCRYPT**.
 
