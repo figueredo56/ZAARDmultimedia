@@ -11,6 +11,8 @@
 
 ---
 
+<video src="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Word.mp4" controls width="100%"></video>
+
 ## 🎶 ZAARD Audio Arena (Temas Oficiales & Nuevos Lanzamientos)
 Haz clic en cualquier botón para reproducir o escuchar la pista oficial del ecosistema:
 
