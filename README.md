@@ -1,4 +1,4 @@
-
+![Vista previa de Word](./Word.gif)
 
 
 # ⚡ ZAARDmultimedia — Official Ecosystem Hub ⚡
