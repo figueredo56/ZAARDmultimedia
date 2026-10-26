@@ -125,6 +125,69 @@ Una muestra exclusiva del diseño visual, branding y colecciones de arte digital
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1791510947001-a4d6873c2eb5099c9cbcde2494426878.png" width="18%" style="border-radius: 8px; margin: 4px;" alt="Asset">
 </p>
 
+<div align="center">
+
+# 💎 ZAARD INNOVATION — ECOSYSTEM & ASSETS PORTAL
+
+[![Network: BNB Smart Chain](https://img.shields.io/badge/Network-BNB%20Smart%20Chain-f3ba2f?style=for-the-badge&logo=binance&logoColor=black)](https://bscscan.com)
+[![Element Market](https://img.shields.io/badge/Marketplace-Element-purple?style=for-the-badge)](https://element.market/collections/zaard?ref=MHCP)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+## 🌟 Acerca del Ecosistema ZAARD
+
+**ZAARD INNOVATION** es un ecosistema descentralizado de próxima generación impulsado bajo el sello técnico **XENOCRYPT**. Diseñado para fusionar el alto rendimiento de las finanzas descentralizadas (DeFi), servicios de utilidad de tokens, y activos digitales inmersivos con experiencias interactivas en la red **BNB Smart Chain (BSC)**.
+
+---
+
+## 🖼️ Galería Oficial de Activos y Colecciones
+
+<div align="center">
+
+| Activo / Preview 01 | Activo / Preview 02 | Activo / Preview 03 |
+| :---: | :---: | :---: |
+| <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792362483220-ba5b82b9e7d52f642a5cd7a8bb74da67.png" width="220" alt="ZAARD Asset 1"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792381662343-f6936e841ddbc8fba57af3522f9c2c5b.png" width="220" alt="ZAARD Asset 2"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792787595908-7813fbe0af75f68a2aea48ebb70d5f98.png" width="220" alt="ZAARD Asset 3"/> |
+
+| Activo / Preview 04 | Activo / Preview 05 | Activo / Preview 06 |
+| :---: | :---: | :---: |
+| <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792787614084-ac5dfcf499f4cbe7c3365055f6e34db2.png" width="220" alt="ZAARD Asset 4"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792787906588-c7149b542005e60ff1e93e93bc1607f0.png" width="220" alt="ZAARD Asset 5"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792865596414-22890f0deb10ff50d0525508a0eea986.png" width="220" alt="ZAARD Asset 6"/> |
+
+| Activo / Preview 07 | Activo / Preview 08 | Activo / Preview 09 |
+| :---: | :---: | :---: |
+| <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792865614833-8488df8d521646af074edc4b677b89e6.png" width="220" alt="ZAARD Asset 7"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792866515997-1739acdd69caccce104fa49c60fabcfe.png" width="220" alt="ZAARD Asset 8"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792866833974-3b8443138ca015570c7178718de20f12.png" width="220" alt="ZAARD Asset 9"/> |
+
+| Activo / Preview 10 | Activo / Preview 11 | Activo / Preview 12 |
+| :---: | :---: | :---: |
+| <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792869617802-4e36696676c0a1cbe94764415bf1802c.png" width="220" alt="ZAARD Asset 10"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792961690220-245e64608af4027d5d980f1c0f536e6b.png" width="220" alt="ZAARD Asset 11"/> | <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792961706993-46914a4f7391f9daa3b781160c1d0146.png" width="220" alt="ZAARD Asset 12"/> |
+
+</div>
+
+<div align="center">
+
+| Activo / Preview 13 |
+| :---: |
+| <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792961728115-cf2324a490e2deac09122a70e654635c.png" width="220" alt="ZAARD Asset 13"/> |
+
+</div>
+
+---
+
+## 🔗 Enlaces Oficiales y Contratos Inteligentes
+
+Accede de forma directa a los recursos del ecosistema, mercados y contratos en la red BSC:
+
+* 🚀 **Colección Oficial en Element Market:** [Ver Colección (Con Referido)](https://element.market/collections/zaard?ref=MHCP)
+* 👤 **Perfil Oficial en Element:** [Ver Perfil de Creador](https://element.market/account/0x85ba27c5774833e46fd3b408d935a790eff8225a)
+* 🔍 **Contrato Inteligente de NFTs (BscScan):** [`0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0`](https://bscscan.com/address/0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0)
+
+---
+
+<div align="center">
+  <p><i>ZAARD INNOVATION — Forjando el futuro descentralizado bajo el sello XENOCRYPT.</i></p>
+</div>
 ---
 
 ## 🌐 Enlaces Oficiales del Ecosistema
