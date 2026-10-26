@@ -1,4 +1,10 @@
-[![▶ Reproducir Video Word](https://img.shields.io/badge/▶_VER_VIDEO_WORD.MP4-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Word.mp4)
+<p align="center">
+  <video src="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Word.mp4" controls width="100%" poster="https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/ZAARDmultimedia.png">
+    Tu navegador no soporta la reproducción de vídeos.
+  </video>
+</p>
+
+
 # ⚡ ZAARDmultimedia — Official Ecosystem Hub ⚡
 
 <p align="center">
