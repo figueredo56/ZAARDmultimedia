@@ -1,8 +1,4 @@
-[▶️ Reproducir Word.mp4](https://github.com/figueredo56/ZAARDmultimedia/blob/main/Word.mp4)
-
-### 🎥 Reproductor de Vídeo Oficial
-[![Ver Vídeo Word.mp4 en ZAARDmultimedia](https://img.shields.io/badge/▶%20REPRODUCIR%20VÍDEO-WORD.MP4-red?style=for-the-badge&logo=github)](https://github.com/figueredo56/ZAARDmultimedia/blob/main/Word.mp4)
-
+[![▶ Reproducir Video Word](https://img.shields.io/badge/▶_VER_VIDEO_WORD.MP4-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://raw.githubusercontent.com/figueredo56/ZAARDmultimedia/main/Word.mp4)
 # ⚡ ZAARDmultimedia — Official Ecosystem Hub ⚡
 
 <p align="center">
